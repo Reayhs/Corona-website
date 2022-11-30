@@ -1,3 +1,3 @@
 # Corona-website
  
- Demo = reayhs-corona-website.netlify.app
+ Demo = https://reayhs-corona-website.netlify.app/
